@@ -1,0 +1,166 @@
+c:\users\system32bit\documents\visual studio 2012\Projects\SharpGLWinformsApplication3\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+c:\users\system32bit\documents\visual studio 2012\Projects\SharpGLWinformsApplication3\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe
+c:\users\system32bit\documents\visual studio 2012\Projects\SharpGLWinformsApplication3\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.pdb
+c:\users\system32bit\documents\visual studio 2012\Projects\SharpGLWinformsApplication3\SharpGLWinformsApplication3\bin\Debug\SharpGL.dll
+c:\users\system32bit\documents\visual studio 2012\Projects\SharpGLWinformsApplication3\SharpGLWinformsApplication3\bin\Debug\SharpGL.SceneGraph.dll
+c:\users\system32bit\documents\visual studio 2012\Projects\SharpGLWinformsApplication3\SharpGLWinformsApplication3\bin\Debug\SharpGL.WinForms.dll
+c:\users\system32bit\documents\visual studio 2012\Projects\SharpGLWinformsApplication3\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csprojResolveAssemblyReference.cache
+c:\users\system32bit\documents\visual studio 2012\Projects\SharpGLWinformsApplication3\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.Properties.Resources.resources
+c:\users\system32bit\documents\visual studio 2012\Projects\SharpGLWinformsApplication3\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.SharpGLForm.resources
+c:\users\system32bit\documents\visual studio 2012\Projects\SharpGLWinformsApplication3\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.GenerateResource.Cache
+c:\users\system32bit\documents\visual studio 2012\Projects\SharpGLWinformsApplication3\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+c:\users\system32bit\documents\visual studio 2012\Projects\SharpGLWinformsApplication3\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.Properties.Resources.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.SharpGLForm.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.GenerateResource.Cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official\SharpGLWinformsApplication3\bin\Debug\SharpGL.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official\SharpGLWinformsApplication3\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official\SharpGLWinformsApplication3\bin\Debug\SharpGL.WinForms.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 2\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 2\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 2\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 2\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 2\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 2\SharpGLWinformsApplication3\bin\Debug\SharpGL.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 2\SharpGLWinformsApplication3\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 2\SharpGLWinformsApplication3\bin\Debug\SharpGL.WinForms.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 2\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 2\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.Properties.Resources.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 2\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.SharpGLForm.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 2\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.GenerateResource.Cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 3\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 3\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 3\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 3\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 3\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 3\SharpGLWinformsApplication3\bin\Debug\SharpGL.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 3\SharpGLWinformsApplication3\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 3\SharpGLWinformsApplication3\bin\Debug\SharpGL.WinForms.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 3\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 3\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.Properties.Resources.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 3\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.SharpGLForm.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 3\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.GenerateResource.Cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 4\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 4\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 4\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 4\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 4\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 4\SharpGLWinformsApplication3\bin\Debug\SharpGL.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 4\SharpGLWinformsApplication3\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 4\SharpGLWinformsApplication3\bin\Debug\SharpGL.WinForms.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 4\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 4\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.Properties.Resources.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 4\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.SharpGLForm.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official 4\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.GenerateResource.Cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q2 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q2 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q2 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q2 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q2 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q2 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q2 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q2 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.WinForms.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q2 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q2 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.Properties.Resources.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q2 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.SharpGLForm.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q2 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.GenerateResource.Cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.WinForms.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.Properties.Resources.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.SharpGLForm.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.GenerateResource.Cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.WinForms.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.Properties.Resources.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.SharpGLForm.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q3 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.GenerateResource.Cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q4 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q4 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q4 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q4 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q4 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.pdb
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q4 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q4 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q4 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.WinForms.dll
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q4 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q4 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.Properties.Resources.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q4 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.SharpGLForm.resources
+C:\Users\system32bit\Documents\Visual Studio 2012\Projects\Tetris_Official Q4 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.GenerateResource.Cache
+J:\ \Tetris_Official Q4 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+J:\ \Tetris_Official Q4 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+J:\ \Tetris_Official Q4 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
+J:\ \Tetris_Official Q4 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe
+J:\ \Tetris_Official Q4 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.pdb
+J:\ \Tetris_Official Q4 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.dll
+J:\ \Tetris_Official Q4 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.SceneGraph.dll
+J:\ \Tetris_Official Q4 - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.WinForms.dll
+J:\ \Tetris_Official Q4 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csprojResolveAssemblyReference.cache
+J:\ \Tetris_Official Q4 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.Properties.Resources.resources
+J:\ \Tetris_Official Q4 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.SharpGLForm.resources
+J:\ \Tetris_Official Q4 - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.GenerateResource.Cache
+J:\ \Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+J:\ \Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+J:\ \Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
+J:\ \Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe
+J:\ \Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.pdb
+J:\ \Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.dll
+J:\ \Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.SceneGraph.dll
+J:\ \Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.WinForms.dll
+J:\ \Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csprojResolveAssemblyReference.cache
+J:\ \Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.Properties.Resources.resources
+J:\ \Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.SharpGLForm.resources
+J:\ \Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.GenerateResource.Cache
+D:\UNIVERSIDAD\Programillas\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+D:\UNIVERSIDAD\Programillas\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe
+D:\UNIVERSIDAD\Programillas\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.pdb
+D:\UNIVERSIDAD\Programillas\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.dll
+D:\UNIVERSIDAD\Programillas\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.SceneGraph.dll
+D:\UNIVERSIDAD\Programillas\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.WinForms.dll
+D:\UNIVERSIDAD\Programillas\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\Programillas\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.Properties.Resources.resources
+D:\UNIVERSIDAD\Programillas\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.SharpGLForm.resources
+D:\UNIVERSIDAD\Programillas\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\Programillas\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Programillas\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.CopyComplete
+D:\UNIVERSIDAD\Programillas\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+D:\UNIVERSIDAD\Programillas\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
+D:\UNIVERSIDAD\packs\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe.config
+D:\UNIVERSIDAD\packs\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.exe
+D:\UNIVERSIDAD\packs\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGLWinformsApplication3.pdb
+D:\UNIVERSIDAD\packs\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.dll
+D:\UNIVERSIDAD\packs\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.SceneGraph.dll
+D:\UNIVERSIDAD\packs\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\bin\Debug\SharpGL.WinForms.dll
+D:\UNIVERSIDAD\packs\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\packs\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.Properties.Resources.resources
+D:\UNIVERSIDAD\packs\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.SharpGLForm.resources
+D:\UNIVERSIDAD\packs\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\packs\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\packs\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.csproj.CopyComplete
+D:\UNIVERSIDAD\packs\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.exe
+D:\UNIVERSIDAD\packs\DRIVE\Drive\apuntes progGrafica\v12\Tetris_Official Q4 - copia - copia\SharpGLWinformsApplication3\obj\x86\Debug\SharpGLWinformsApplication3.pdb
